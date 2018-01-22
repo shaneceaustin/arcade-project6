@@ -7,6 +7,7 @@ start again. If you don't, you win! To keep play again,  refresh the page.
 1.Download
 2.Unzip
 3.Open arcade-project-six 
+4. Open index.html
 
 Ready, set, play! 
 
