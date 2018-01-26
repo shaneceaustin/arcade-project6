@@ -1,7 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Make it across the water without colliding into an enemy. If you do, you'll have to
+Use the arrow keys to make it across the water without colliding into an enemy. If you do, you'll have to
 start again. If you don't, you win! To keep play again,  refresh the page. 
 
 1.Download
