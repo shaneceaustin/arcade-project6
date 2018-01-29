@@ -51,7 +51,7 @@ var Player = function() {
         enemy1.speed = 0;
         enemy2.speed = 0;
         enemy3.speed = 0;
-        player.y = -10;
+        this.y = -10;
     };
 };
 
